@@ -19,7 +19,7 @@ body {
 header {
     background-color: #1b3459e6;
     position: fixed;
-    max-width: 100%;
+    min-width: 100%;
     overflow: hidden;
     display: flex;
     flex-wrap: wrap;
