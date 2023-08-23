@@ -18,12 +18,10 @@ body {
 
 header {
     background-color: #1b3459e6;
-    position: fixed;
     min-width: 100%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    z-index: 100;
 }
 
 header::after {
